@@ -1,3 +1,2 @@
-module github.com/Thomasleroy/Go_code
-
+module hello
 go 1.20
